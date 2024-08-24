@@ -1,0 +1,8 @@
+# Ignore .csv files
+*.csv
+
+# Ignore .conda folder
+.conda/
+
+# Ignore results folder in notebooks directory
+notebooks/results/
