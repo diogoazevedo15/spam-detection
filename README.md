@@ -14,8 +14,8 @@ To run the notebook, you will need to download the dataset from [this link](http
 
 The project structure should look like this:
 
-├── data
-│ └── spam.csv
-├── notebooks
-│ └── spam_detection.ipynb
-└── [README.md](http://readme.md/)
+├── data\n
+│ └── spam.csv\n
+├── notebooks\n
+│ └── spam_detection.ipynb\n
+└── [README.md](http://readme.md/)\n
